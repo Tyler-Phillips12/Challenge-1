@@ -1,4 +1,4 @@
-# Challenge-1
+# Horeison Mock Home Page
 
 # What is this?
     A mock webpage with accesibility added to HTML and CSS files
